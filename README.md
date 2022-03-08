@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mynameisweshightower
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning React and React Native.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React projects and playing guitar(s).
 - 📫 wesley.l.hightower@gmail.com
 
 <!---
